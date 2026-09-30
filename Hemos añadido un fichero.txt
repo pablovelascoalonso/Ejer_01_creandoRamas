@@ -1,0 +1,1 @@
+Hacemos modificación desde rama 2 para generar un conflicto
